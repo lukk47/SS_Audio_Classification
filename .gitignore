@@ -1,0 +1,14 @@
+.nv/
+.keras/
+.config/
+.vscode/
+data/
+results/
+scripts/
+.bash_history/
+results_msg/
+*__pycache__/
+*private/
+*pyc
+prepare_data/
+prepare*
