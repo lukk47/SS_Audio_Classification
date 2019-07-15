@@ -4,7 +4,7 @@ This is the TensorFlow source code for the "Semi-supervised Audio Classification
 
 The environment can be found in dockerhub:
 
-`docker pull loklu/mt_tensorflow:tf1.2.1_py35_lib2`
+`docker pull loklu/mt_tensorflow:tf1.2.1_py35_lib3`
 
 To prepare the dataset, please download the [urban sound data](https://www.kaggle.com/pavansanagapati/urban-sound-classification) and save it under the main folder("./SS_Audio_Classification/"). Then run the following script:
 
@@ -12,7 +12,7 @@ To prepare the dataset, please download the [urban sound data](https://www.kaggl
 
 To train the model, run:
 
-`cd audio_mt_public`
+`cd SS_Audio_Classification`
 
 `sh experiments/script.sh`
 
