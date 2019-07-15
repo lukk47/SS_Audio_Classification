@@ -10,5 +10,5 @@ results_msg/
 *__pycache__/
 *private/
 *pyc
-prepare_data/
-prepare*
+# prepare_data/
+# prepare*
